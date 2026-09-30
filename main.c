@@ -3,6 +3,6 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Main branch\n");
+    printf("Main and feature branches merged\n");
     return 0;
 }
