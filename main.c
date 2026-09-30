@@ -3,6 +3,6 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Fudan University\n");
+    printf("Main branch\n");
     return 0;
 }
